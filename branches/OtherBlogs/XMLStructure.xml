@@ -1,0 +1,151 @@
+<BrowseNodeLookupResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent"
+                    Value="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36"/>
+        </HTTPHeaders>
+        <RequestId>2fbf7c59-896e-481f-8c33-d1e83cbe7260</RequestId>
+        <Arguments>
+            <Argument Name="Operation" Value="BrowseNodeLookup"/>
+            <Argument Name="Service" Value="AWSECommerceService"/>
+            <Argument Name="BrowseNodeId" Value="283155"/>
+            <Argument Name="AWSAccessKeyId" Value="XXXXXXXXXXXX"/>
+            <Argument Name="Timestamp" Value="2014-04-10T02:12:51Z"/>
+            <Argument Name="Signature" Value="XXXXXXXX"/>
+            <Argument Name="ResponseGroup" Value="NewReleases"/>
+            <Argument Name="AssociateTag" Value="XXXXXXXX"/>
+            <Argument Name="Version" Value="2011-08-01"/>
+        </Arguments>
+        <RequestProcessingTime>0.13832499</RequestProcessingTime>
+    </OperationRequest>
+    <BrowseNodes>
+        <Request>
+            <IsValid>True</IsValid>
+            <BrowseNodeLookupRequest>
+                <BrowseNodeId>283155</BrowseNodeId>
+                <ResponseGroup>NewReleases</ResponseGroup>
+            </BrowseNodeLookupRequest>
+        </Request>
+        <BrowseNode>
+            <BrowseNodeId>283155</BrowseNodeId>
+            <Name>Books</Name>
+            <NewReleases>
+                <NewRelease>
+                    <ASIN>B00IX9UTLU</ASIN>
+                    <Title>The Fixed Trilogy: Fixed on You, Found in You, Forever with You</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00DMCPQUW</ASIN>
+                    <Title>Missing You</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00HVJB4VM</ASIN>
+                    <Title>Flash Boys: A Wall Street Revolt</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00FL3YL9M</ASIN>
+                    <Title>Hidden</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00JDYC5OI</ASIN>
+                    <Title>Reasonable Doubt</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00DTUHI2Q</ASIN>
+                    <Title>NYPD Red 2</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>0393244660</ASIN>
+                    <Title>Flash Boys: A Wall Street Revolt</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00FFFNA1Q</ASIN>
+                    <Title>Shadow Spell: Book Two of The Cousins O'Dwyer Trilogy</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00EZCY0LO</ASIN>
+                    <Title>I Am Livia</Title>
+                </NewRelease>
+                <NewRelease>
+                    <ASIN>B00HYIF9FW</ASIN>
+                    <Title>The Will (The Magdalene Series)</Title>
+                </NewRelease>
+            </NewReleases>
+            <TopItemSet>
+                <Type>NewReleases</Type>
+                <TopItem>
+                    <ASIN>B00IX9UTLU</ASIN>
+                    <Title>The Fixed Trilogy: Fixed on You, Found in You, Forever with You</Title>
+                    <DetailPageURL>http://www.amazon.com/Fixed-Trilogy-You-Found-Forever-ebook/dp/B00IX9UTLU%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IX9UTLU</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Paige, Laurelin</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00DMCPQUW</ASIN>
+                    <Title>Missing You</Title>
+                    <DetailPageURL>http://www.amazon.com/Missing-You-Harlan-Coben-ebook/dp/B00DMCPQUW%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00DMCPQUW</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Coben, Harlan</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00HVJB4VM</ASIN>
+                    <Title>Flash Boys: A Wall Street Revolt</Title>
+                    <DetailPageURL>http://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HVJB4VM</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Lewis, Michael</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00FL3YL9M</ASIN>
+                    <Title>Hidden</Title>
+                    <DetailPageURL>http://www.amazon.com/Hidden-Catherine-McKenzie-ebook/dp/B00FL3YL9M%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00FL3YL9M</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>McKenzie, Catherine</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00JDYC5OI</ASIN>
+                    <Title>Reasonable Doubt</Title>
+                    <DetailPageURL>http://www.amazon.com/Reasonable-Doubt-Whitney-Gracia-Williams-ebook/dp/B00JDYC5OI%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00JDYC5OI</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Williams, Whitney Gracia</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00DTUHI2Q</ASIN>
+                    <Title>NYPD Red 2</Title>
+                    <DetailPageURL>http://www.amazon.com/NYPD-Red-2-James-Patterson-ebook/dp/B00DTUHI2Q%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00DTUHI2Q</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Patterson, James</Author>
+                    <Author>Karp, Marshall</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>0393244660</ASIN>
+                    <Title>Flash Boys: A Wall Street Revolt</Title>
+                    <DetailPageURL>http://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393244660%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0393244660</DetailPageURL>
+                    <ProductGroup>Book</ProductGroup>
+                    <Author>Lewis, Michael</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00FFFNA1Q</ASIN>
+                    <Title>Shadow Spell: Book Two of The Cousins O'Dwyer Trilogy</Title>
+                    <DetailPageURL>http://www.amazon.com/Shadow-Spell-Cousins-ODwyer-Trilogy-ebook/dp/B00FFFNA1Q%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00FFFNA1Q</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Roberts, Nora</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00EZCY0LO</ASIN>
+                    <Title>I Am Livia</Title>
+                    <DetailPageURL>http://www.amazon.com/Am-Livia-Phyllis-T-Smith-ebook/dp/B00EZCY0LO%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00EZCY0LO</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Smith, Phyllis T.</Author>
+                </TopItem>
+                <TopItem>
+                    <ASIN>B00HYIF9FW</ASIN>
+                    <Title>The Will (The Magdalene Series)</Title>
+                    <DetailPageURL>http://www.amazon.com/Will-Magdalene-Kristen-Ashley-ebook/dp/B00HYIF9FW%3FSubscriptionId%3DAKIAJC7LREBOVIQZK2JQ%26tag%3Dbibliofile-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HYIF9FW</DetailPageURL>
+                    <ProductGroup>eBooks</ProductGroup>
+                    <Author>Ashley, Kristen</Author>
+                </TopItem>
+            </TopItemSet>
+        </BrowseNode>
+    </BrowseNodes>
+</BrowseNodeLookupResponse>
+
